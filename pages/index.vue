@@ -102,7 +102,22 @@
           <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p>
             <video src="/video/process_call_to_action.mp4" class="img-fluid fr-fic fr-dii" autoplay loop></video></p></div>
 
-          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Более 2 млн. рецептов</strong></h2><p class="lead">Огромная база рецептов, от простого бутерброда до экзотических блюд азиатской кухни :) <!-- <i class="fas fa-angle-right"></i> --></p></div>
+          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Запись на кулинарные курсы</strong></h2>
+            <p class="lead">
+              Призыв записаться на бесплатные/платные мастер-классы, кулинарные курсы. Монетизация с продажи курсов, бытовой техники/продуктов на самих занятиях:)
+            </p>
+              <p class="lead">
+              <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
+
+              <strong>Конверсия (мин.):</strong> 0.1%<br>
+
+              <strong>Процент продаж на занятиях (средний):</strong> 50%<br>
+
+              <strong>Стоимость товара:</strong> 2000 руб.<br>
+
+              <strong>Итого:</strong> 1 000 000 * 0.1 % * 50 % * 2000 = 1 000 000 руб. <u>ежемесячно</u><br>
+            </p>
+            </div>
         </div>
       </div>
     </section>
