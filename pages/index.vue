@@ -100,7 +100,7 @@
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p>
-            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" loop controls playsinline>
+            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" controls>
               <source src="/video/process_call_to_action.mp4" type="video/mp4"/>
             </video></p></div>
 
@@ -137,7 +137,10 @@
         name: "Index",
         mounted() {
             let video = document.getElementsByTagName('video');
+            console.log(video);
             [...video].forEach(video => {
+                console.log(video);
+                video.loop = true;
                 video.play()
             })
             console.log('index page')
