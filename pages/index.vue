@@ -7,8 +7,6 @@
       <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/froala/design-blocks@master/dist/css/froala_blocks.min.css">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/froala-editor@2.9.1/css/froala_editor.pkgd.min.css">
-      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/froala-editor@2.9.1/css/froala_style.min.css">
     </head>
     <body>
     <header data-block-type="headers" data-id="1" class="">
@@ -66,6 +64,9 @@
     <div class="fr-tooltip" style="left: -3000px; top: 101px; position: fixed;">Add Link</div>
 
     </body>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" />
     </html>
   </div>
 </template>
