@@ -69,6 +69,12 @@
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Лояльная аудитория</strong></h2><p class="lead">Потенциал роста до 30 млн посетителей в месяц только в России! Люди, которые любят готовить и вкусно поесть :) <!-- <i class="fas fa-angle-right"></i> --></p></div>
         </div>
 
+        <div class="row text-left align-items-center pt-5 pb-md-5">
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_photos.png"></p></div>
+
+          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Не только рецепты</strong></h2><p class="lead">Блок с фотографиями пользователя - в какое кафе любит ходить с семьей, где лучшие мороженное, фото праздничного стола по случаю дня рождения и др :)</p></div>
+        </div>
+
 
 
         <div class="row justify-content-center pb-5 mt-5">
@@ -76,10 +82,11 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p>
-            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" controls>
-              <source src="/video/process_call_to_action.mp4" type="video/mp4"/>
-            </video></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;">
+            <p>
+            <img src="/images/recipe_course.png" class="img-fluid fr-fic fr-dii">
+            </p>
+          </div>
 
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Запись на кулинарные курсы</strong></h2>
             <p class="lead">
@@ -97,6 +104,26 @@
               <strong>Итого:</strong> 1 000 000 * 0.1 % * 50 % * 2000 = 1 000 000 руб. <u>ежемесячно</u><br>
             </p>
             </div>
+        </div>
+
+
+        <div class="row text-left align-items-center pt-5 pb-md-5">
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_commercial.png"></p></div>
+
+          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><h2><strong>Продажа продуктов</strong></h2>
+            <p class="lead">Пользователь может заказать необходимые ингредиенты из карточки рецепта</p>
+            <p class="lead">
+              <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
+
+              <strong>Конверсия (мин.):</strong> 0.1%<br>
+
+              <strong>Наценка(мин):</strong> 15%<br>
+
+              <strong>Затраты в среднем на еду (месяц/чел.): </strong> 10 000 руб.<br>
+
+              <strong>Итого:</strong> 1 000 000 * 0.1 % * 10 000 * 15 %  = 1 500 000 руб <u>ежемесячно</u><br>
+            </p>
+          </div>
         </div>
       </div>
     </section>
