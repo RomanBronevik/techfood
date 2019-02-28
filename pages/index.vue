@@ -100,8 +100,8 @@
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p>
-            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" autoplay loop controls playsinline>
-              <source src="/video/process_call_to_action.mp4" />
+            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" autoplay loop controls playsinline preload="none">
+              <source src="/video/process_call_to_action.mp4" type="video/mp4"/>
             </video></p></div>
 
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Запись на кулинарные курсы</strong></h2>
