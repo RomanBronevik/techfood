@@ -12,29 +12,6 @@
     <body>
     <header data-block-type="headers" data-id="1" class="">
       <div class="container">
-        <!--<nav class="navbar navbar-expand-md">-->
-          <!--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav0" aria-controls="navbarNav0" aria-expanded="false" aria-label="Toggle navigation">-->
-            <!--<span class="navbar-toggler-icon"></span>-->
-          <!--</button>-->
-
-          <!--<div class="collapse navbar-collapse" id="navbarNav0">-->
-            <!--<ul class="navbar-nav mr-auto ml-auto">-->
-              <!--<li class="nav-item active">-->
-                <!--<a class="nav-link fr-view" href="#" style="outline: none; display: inline-block;">Home <span class="sr-only">(current)</span></a>-->
-              <!--</li>-->
-              <!--<li class="nav-item">-->
-                <!--<a class="nav-link fr-view" href="/#features" style="outline: none; display: inline-block;">Функционал</a>-->
-              <!--</li>-->
-              <!--<li class="nav-item">-->
-                <!--<a class="nav-link fr-view" href="#monetization" style="outline: none; display: inline-block;">Монетизация</a>-->
-              <!--</li>-->
-              <!--<li class="nav-item">-->
-                <!--<a class="nav-link fr-view" href="#" style="outline: none; display: inline-block;">Требования</a>-->
-              <!--</li>-->
-            <!--</ul>-->
-          <!--</div>-->
-        <!--</nav>-->
-        <!--Navbar-->
         <nav class="navbar navbar-light light-blue lighten-4">
 
           <!-- Navbar brand -->
