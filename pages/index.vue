@@ -72,7 +72,7 @@
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_photos.png"></p></div>
 
-          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Не только рецепты</strong></h2><p class="lead">Блок с фотографиями пользователя - в какое кафе любит ходить с семьей, где лучшие мороженное, фото праздничного стола по случаю дня рождения и др :)</p></div>
+          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Не только рецепты</strong></h2><p class="lead">Блок с фотографиями пользователя - в какое кафе любит ходить с семьей, где лучше мороженое, фото праздничного стола по случаю дня рождения и др :)</p></div>
         </div>
 
 
