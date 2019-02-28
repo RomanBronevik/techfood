@@ -100,7 +100,7 @@
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p>
-            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" autoplay loop controls playsinline preload="auto">
+            <video poster="/images/recipe_course.png" class="img-fluid fr-fic fr-dii" loop controls playsinline>
               <source src="/video/process_call_to_action.mp4" type="video/mp4"/>
             </video></p></div>
 
@@ -136,6 +136,10 @@
     export default {
         name: "Index",
         mounted() {
+            let video = document.getElementsByTagName('video');
+            [...video].forEach(video => {
+                video.play()
+            })
             console.log('index page')
         }
     }
