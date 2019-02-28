@@ -1,5 +1,5 @@
 <template>
-  <span>tech food</span>
+  <span>tech food presentation</span>
 </template>
 
 <script>
