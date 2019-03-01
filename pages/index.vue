@@ -104,7 +104,7 @@
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_adv.png"></p></div>
 
-          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Прямая реклама на сайте</strong></h2>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Реклама на сайте</strong></h2>
             <p class="lead">Различные виды интеграций рекламы в соц.сеть</p>
             <p class="lead">
               CPM - оплата за тысячу показов<br>
@@ -140,6 +140,37 @@
       </div>
     </section>
 
+    <section class="fdb-block team-8 fp-active mb-5" data-block-type="teams" data-id="2" draggable="true">
+      <div class="container">
+        <div class="row text-center justify-content-center">
+          <div class="col-12" style="z-index: 10000;"><h1>Наша команда</h1><p class="lead">Для проекта уже собран костяк команды, работа по созданию соц.сети начнется сразу, без периода поиска сотрудников!</p></div>
+        </div>
+
+        <div class="row-100"></div>
+
+        <div class="row justify-content-center text-left">
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="/images/employee.png"></div><div class="col pt-2"><h3><strong>Fullstack web developer/Product manager</strong></h3><p>Разработка фронтед части проекта/ведение проекта</p></div></div></div>
+
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="/images/employee.png"></div><div class="col pt-2"><h3><strong>Team lead/Senior fullstack web developer</strong></h3><p>Проектирование/архитектура проекта</p></div></div></div>
+        </div>
+
+        <div class="row-70"></div>
+
+        <div class="row justify-content-left text-left">
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="/images/employee.png"></div><div class="col pt-2"><h3><strong>UI/UX Designer</strong></h3><p>UI/UX дизайн проекта</p></div></div></div>
+
+          <!--<div class="col-sm-6" style="z-index: 10000;"><div class="row align-items-center"><div class="col-4"><img alt="image" class="img-fluid rounded" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/4.jpg"></div><div class="col-8"><h3><strong>Employee Name</strong></h3><p class="lead">Position</p><p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p></div></div></div>-->
+        </div>
+      </div>
+    </section>
+
+    <section class="fdb-block fp-active" data-block-type="contents" data-id="1">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col col-md-8 text-center" style="z-index: 10000;"><h1>Инвестору ~ 880 000 руб. (20%) ежемесячно!</h1><p class="lead">Затраты на создание кулинарной соц. сети 500 000 рублей ежемесячно в течении 12 месяцев. Итого: 6 000 000 рублей.</p><p class="lead">Прибыль инвестору в размере ~ 880 000 руб в месяц ориентировочно через 1,5 года со старта проекта.</p></div>
+        </div>
+      </div>
+    </section>
     </body>
     </html>
   </div>
