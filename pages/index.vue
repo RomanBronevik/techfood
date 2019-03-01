@@ -140,6 +140,29 @@
       </div>
     </section>
 
+    <section class="fdb-block team-8 fp-active mb-5" data-block-type="teams" data-id="2" draggable="true">
+      <div class="container">
+        <div class="row text-center justify-content-center">
+          <div class="col-12" style="z-index: 10000;"><h1>Наша команда</h1><p class="lead">Для проекта уже собран костяк команды, работа по созданию соц.сети начнется сразу, без периода поиска сотрудников!</p></div>
+        </div>
+
+        <div class="row-100"></div>
+
+        <div class="row justify-content-center text-left">
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/8.jpg"></div><div class="col pt-2"><h3><strong>Fullstack web developer/Product manager</strong></h3><p>Разработка фронтед части проекта/ведение проекта</p></div></div></div>
+
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/7.jpg"></div><div class="col pb-t"><h3><strong>Team lead/Senior fullstack web developer</strong></h3><p>Проектирование/архитектура проекта</p></div></div></div>
+        </div>
+
+        <div class="row-70"></div>
+
+        <div class="row justify-content-left text-left">
+          <div class="col-sm-6 mb-5" style="z-index: 10000;"><div class="row align-items-center"><div class="col-md-4 col-sm-12"><img alt="image" class="img-fluid rounded" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/9.jpg"></div><div class="col pb-t"><h3><strong>UI/UX Designer</strong></h3><p>Дизайн кулинарной соц. сети</p></div></div></div>
+
+          <!--<div class="col-sm-6" style="z-index: 10000;"><div class="row align-items-center"><div class="col-4"><img alt="image" class="img-fluid rounded" src="https://cdn.jsdelivr.net/gh/froala/design-blocks@2.0.1/dist/imgs//people/4.jpg"></div><div class="col-8"><h3><strong>Employee Name</strong></h3><p class="lead">Position</p><p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p></div></div></div>-->
+        </div>
+      </div>
+    </section>
     </body>
     </html>
   </div>
