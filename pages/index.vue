@@ -15,7 +15,7 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_cards.png"></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_cards.png"></p></div>
 
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Более 2 млн. рецептов</strong></h2><p class="lead">Огромная база рецептов, от простого бутерброда до экзотических блюд азиатской кухни :) <!-- <i class="fas fa-angle-right"></i> --></p></div>
         </div>
@@ -23,11 +23,11 @@
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_filter.png"></p></div>
 
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><h2><strong>Найти лучший рецепт</strong></h2><p class="lead">Удобные фильтры по категории/кухне/ингредиентам, а также возможность поиска по дополнительным параметрам: аллергия, диета, праздник и др.<!-- <i class="fas fa-angle-right"></i> --></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Найти лучший рецепт</strong></h2><p class="lead">Удобные фильтры по категории/кухне/ингредиентам, а также возможность поиска по дополнительным параметрам: аллергия, диета, праздник и др.<!-- <i class="fas fa-angle-right"></i> --></p></div>
         </div>
 
         <div class="row text-left align-items-center pt-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_loyalty_auditory.png"></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_loyalty_auditory.png"></p></div>
 
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Лояльная аудитория</strong></h2><p class="lead">Потенциал роста до 30 млн посетителей в месяц только в России! Люди, которые любят готовить и вкусно поесть :) <!-- <i class="fas fa-angle-right"></i> --></p></div>
         </div>
@@ -39,7 +39,7 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_photos.png"></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_photos.png"></p></div>
 
           <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Не только рецепты</strong></h2><p class="lead">Блок с фотографиями пользователя - в какое кафе любит ходить с семьей, где лучше мороженое, фото праздничного стола по случаю дня рождения и др :)</p></div>
         </div>
@@ -57,7 +57,7 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;">
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;">
             <p>
             <img src="/images/recipe_course.png" class="img-fluid fr-fic fr-dii">
             </p>
@@ -85,7 +85,7 @@
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_commercial.png"></p></div>
 
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><h2><strong>Продажа продуктов</strong></h2>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Продажа продуктов</strong></h2>
             <p class="lead">Пользователь может заказать необходимые ингредиенты из карточки рецепта</p>
             <p class="lead">
               <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
@@ -102,7 +102,7 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_adv.png"></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_adv.png"></p></div>
 
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Прямая реклама на сайте</strong></h2>
             <p class="lead">Различные виды интеграций рекламы в соц.сеть</p>
@@ -124,7 +124,7 @@
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_gifts.png"></p></div>
 
-          <div class="col-lg-5 col-md-5 col-sm-12" style="z-index: 10000;"><h2><strong>Яркие подарки</strong></h2>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Яркие подарки</strong></h2>
             <p class="lead">Пользователь может радовать себя и своих друзей прикольными онлайн подарками</p>
             <p class="lead">
               <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
