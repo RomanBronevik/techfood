@@ -57,28 +57,23 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;">
-            <p>
-            <img src="/images/recipe_course.png" class="img-fluid fr-fic fr-dii">
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_adv.png"></p></div>
+
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Реклама на сайте</strong></h2>
+            <p class="lead">Различные виды интеграций рекламы в соц.сеть</p>
+            <p class="lead">
+              CPM - оплата за тысячу показов<br>
+
+              <strong>Посещаемость (мин):</strong>1 млн. в месяц <br>
+
+              <strong>Банер (300 х 435) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
+
+              <strong>Банер (100% х 240) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
+
+              <strong>Банер (950 х 90) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
+              <strong>Итого:</strong> 1 500 000 руб. <u>ежемесячно</u>
             </p>
           </div>
-
-          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Запись на кулинарные курсы</strong></h2>
-            <p class="lead">
-              Призыв записаться на бесплатные/платные мастер-классы, кулинарные курсы. Монетизация с продажи курсов, бытовой техники/продуктов на самих занятиях:)
-            </p>
-              <p class="lead">
-              <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
-
-              <strong>Конверсия (мин.):</strong> 0.1%<br>
-
-              <strong>Процент продаж на занятиях (средний):</strong> 50%<br>
-
-              <strong>Наценка товара (напр, соковыжималка):</strong> 2000 руб.<br>
-
-              <strong>Итого:</strong> 1 000 000 * 0.1 % * 50 % * 2000 = 1 000 000 руб. <u>ежемесячно</u><br>
-            </p>
-            </div>
         </div>
 
 
@@ -102,24 +97,31 @@
         </div>
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
-          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/recipe_adv.png"></p></div>
+          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;">
+            <p>
+              <img src="/images/recipe_course.png" class="img-fluid fr-fic fr-dii">
+            </p>
+          </div>
 
-          <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto" style="z-index: 10000;"><h2><strong>Реклама на сайте</strong></h2>
-            <p class="lead">Различные виды интеграций рекламы в соц.сеть</p>
+          <div class="col-12 col-md-5 m-md-auto" style="z-index: 10000;"><h2><strong>Запись на кулинарные курсы</strong></h2>
             <p class="lead">
-              CPM - оплата за тысячу показов<br>
+              Призыв записаться на бесплатные/платные мастер-классы, кулинарные курсы. Монетизация с продажи курсов, бытовой техники/продуктов на самих занятиях:)
+            </p>
+            <p class="lead">
+              <strong>Посещаемость(мин.):</strong> 1 млн. в месяц <br>
 
-              <strong>Посещаемость (мин):</strong>1 млн. в месяц <br>
+              <strong>Конверсия (мин.):</strong> 0.1%<br>
 
-              <strong>Банер (300 х 435) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
+              <strong>Процент продаж на занятиях (средний):</strong> 50%<br>
 
-              <strong>Банер (100% х 240) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
+              <strong>Наценка товара (напр, соковыжималка):</strong> 2000 руб.<br>
 
-              <strong>Банер (950 х 90) CPM = 500 руб:</strong> Доход 500 000 руб.<br>
-              <strong>Итого:</strong> 1 500 000 руб. <u>ежемесячно</u>
+              <strong>Итого:</strong> 1 000 000 * 0.1 % * 50 % * 2000 = 1 000 000 руб. <u>ежемесячно</u><br>
             </p>
           </div>
         </div>
+
+
 
         <div class="row text-left align-items-center pt-5 pb-md-5">
           <div class="col-lg-5 col-md-5 col-sm-12 m-md-auto order-md-5" style="z-index: 10000;"><p><img alt="image" class="img-fluid fr-fic fr-dii" src="/images/profile_gifts.png"></p></div>
